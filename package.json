@@ -1,0 +1,27 @@
+{
+  "name": "authentication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vikash20-12/Authentication.git"
+  },
+  "author": "Vikash",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vikash20-12/Authentication/issues"
+  },
+  "homepage": "https://github.com/Vikash20-12/Authentication#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
